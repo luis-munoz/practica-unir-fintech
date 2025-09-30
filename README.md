@@ -1,2 +1,5 @@
-# practica-unir-fintech
-Repositorio requerido para la actividad 1
+# Repo para EIEC - DevOps - UNIR
+
+Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas.
+
+
