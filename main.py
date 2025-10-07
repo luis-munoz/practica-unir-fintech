@@ -35,4 +35,5 @@ if __name__ == "__main__":
         word_list = ["ravenclaw", "gryffindor", "slytherin", "hufflepuff"]
 
     print(sort_list(word_list))
+    print("Fin del programa")
 
