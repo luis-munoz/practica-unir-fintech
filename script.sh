@@ -1,3 +1,6 @@
+script bash
+linea 1
+Linea 2
 #!/bin/bash
 
 set -e
