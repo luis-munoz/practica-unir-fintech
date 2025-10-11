@@ -4,7 +4,11 @@ Este repositorio sirve para demostrar el uso de Git en la asignatura de EIEC (En
 
 ## Descripción
 
-Script en Python que procesa archivos de texto con palabras
+El script de Python lee una lista de palabras, ya sea desde un archivo o usando una lista predeterminada, y luego ordena alfabéticamente segun se le indique.
+
+Modo de Uso: 
+Ascendente (por defecto): python script.py mi_archivo.txt
+Descendente: python script.py mi_archivo.txt desc
 
 ## Uso
 
@@ -26,3 +30,4 @@ python3 main.py words.txt
 ├── words.txt        # Archivo de palabras
 └── README.md        # Documentación
 ```
+
