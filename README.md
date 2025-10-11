@@ -1,6 +1,6 @@
-# Repo para EIEC - DevOps - UNIR
+# Práctica UNIR - Fintech
 
-Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas.
+Este repositorio sirve para demostrar el uso de Git en la asignatura de EIEC (Entornos de Integración y Entrega Continua).
 
 ###Miembros del equipo
 | Nombre                       | Rol           |
